@@ -1,3 +1,5 @@
+![Quark - Github Banner](https://github.com/quantraum/quark/assets/91737697/b669376f-8de9-4b98-a6b2-341361060326)
+
 # Quark
 ## Abstract
 Quark is a poorly named implementation of a Perceptron in C++.
